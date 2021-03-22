@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from hyderabad,India.</h3>
 
 
-- 👨‍💻 Portfolio [https://aateefuddin.netlify.app](https://aateefuddin.netlify.app)
+- 👨‍💻 Portfolio [https://aateefuddin.web.app](https://aateefuddin.web.app)
 
 - 📫 How to reach me **mohammed.aateef.ui@gmail.com**
 
