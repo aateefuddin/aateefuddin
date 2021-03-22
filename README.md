@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Aateefuddin</h1>
 <h3 align="center">A passionate frontend developer from hyderabad,India.</h3>
 
-- 🔭 I’m currently working on **Persft**
 
 - 👨‍💻 Portfolio [https://aateefuddin.netlify.app](https://aateefuddin.netlify.app)
 
